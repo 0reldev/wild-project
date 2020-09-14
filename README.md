@@ -2,4 +2,4 @@
 
 ## Educational exercice from Wild Code School
 
-This is an exercice to learn how to work with other collaborators on a project with Git.
+This is an exercise to learn how to work with other collaborators on a project with Git.
